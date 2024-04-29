@@ -1,0 +1,2 @@
+scriptmode
+Function class{}
